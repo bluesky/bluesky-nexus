@@ -1,0 +1,38 @@
+``bluesky_nexus.device``
+========================
+        
+        
+        
+        
+        
+
+.. automodule:: bluesky_nexus.device
+    :members:
+
+    
+    
+    .. rubric:: Submodules
+
+    .. autosummary::
+        :toctree:
+        :template: custom-module-template.rst
+        :recursive:
+    
+        annotations
+    
+    
+
+    
+    
+    .. rubric:: Members
+
+    .. autosummary::
+        :nosignatures:
+    
+        NxDevice
+        NxHints
+        NxConstant
+        NxDataKey
+        NxSubGroup
+    
+    
